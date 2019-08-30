@@ -9,8 +9,8 @@
   "author": "",
   "license": "BSD-3-Clause",
   "dependencies": {
-    "@jupyter-widgets/jupyterlab-manager": "0.38",
-    "@jupyterlab/plotly-extension": "0.18",
-    "plotlywidget": "0.10.0"
+    "@jupyter-widgets/jupyterlab-manager": "1.0.2",
+    "jupyterlab-plotly": "1.1.0",
+    "plotlywidget": "1.1.0"
   }
 }
